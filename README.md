@@ -10,5 +10,3 @@ Hope this saves you some peace of mind when dividing expenses at the end of a tr
 Project made during 2nd year of INSA engineering school
 
 Teste readme
-
-Testando pull request #1
